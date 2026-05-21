@@ -177,17 +177,6 @@ LlamaCoder/
 - ☁️ Vercel Serverless
 
 
-# 👨‍💻 Credits
-
-## 🧑‍💻 Made By : Nobita
-
-- 🤖 Telegram Channel  
-  https://t.me/ProviderBotz
-
-- ⚡ API Developer  
-  https://t.me/CrazyNobita
-
-
 # 🔘 badges
 
 <div align="center">
